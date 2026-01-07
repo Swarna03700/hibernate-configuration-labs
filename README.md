@@ -10,7 +10,7 @@ This lab contains mini lab projects on how to configure **Hibernate** using diff
 
 ## Labs
 
-- [lab01-jpa-xml](/lab01-jpa-xml/READMD.md)
+- [lab01-jpa-xml](/lab01-jpa-xml/README.md)
 
 ## Resources
 

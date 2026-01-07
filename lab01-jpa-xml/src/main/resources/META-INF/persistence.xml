@@ -14,7 +14,7 @@
             <property name="jakarta.persistence.jdbc.user"
                       value="postgres"/>
             <property name="jakarta.persistence.jdbc.password"
-                      value="root123"/>
+                      value="swarna0411"/>
 
             <!-- Automatic schema export -->
             <property name="jakarta.persistence.schema-generation.database.action"
