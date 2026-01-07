@@ -1,0 +1,24 @@
+plugins {
+    id 'java'
+}
+
+allprojects {
+    group = 'dev.swarnadeep.hibernate'
+    version = '1.0.0'
+    
+    repositories {
+        mavenCentral()
+    }
+}
+
+subprojects {
+    apply plugin: 'java'
+    
+    dependencies {
+        // The core library for all your labs
+        implementation 'org.hibernate.orm:hibernate-core:7.2.0.Final'
+        
+        // JDBC Driver dependency
+        implementation 'org.postgresql:postgresql:42.7.8'
+    }
+}
