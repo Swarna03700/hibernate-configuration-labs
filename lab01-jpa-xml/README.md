@@ -97,7 +97,7 @@ The persistence provider must close the resources.
 Database connection successful!
 It shows current date time of the database.
 
-![output](/assets/Screenshot%202026-01-07%20011224.png)
+![output](assets/Screenshot%202026-01-07%20011224.png)
 
 ## Troubleshoot
 
